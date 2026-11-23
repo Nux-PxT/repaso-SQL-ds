@@ -32,7 +32,7 @@ almacen = {
 
 almacen["SSD"] = 1 # agregamos un nuevo producto con su cantidad
 
-print(f"{almacen}\n") # mostramos el diccionario completo para corroborar que se agrego 
+print(f"Stock del Teclado: {almacen['Teclado']}\n") # mostramos el diccionario completo para corroborar que se agrego 
 
 # Practica 4
 # Definimos la funcion y su parametro 
