@@ -1,0 +1,31 @@
+﻿id_venta,producto,categoria,precio_unitario,cantidad,fecha,pais
+1,Laptop Lenovo IdeaPad,Computadoras,850000,2,2026-01-05,Colombia
+2,Mouse Logitech M185,Accesorios,18000,8,2026-01-06,Colombia
+3,Teclado Redragon Kumara,Accesorios,52000,5,2026-01-07,Colombia
+4,Monitor Samsung 24,Monitores,620000,3,2026-01-08,Colombia
+5,Auriculares Sony WH-CH520,Audio,1000,4,2026-01-09,Colombia
+6,Webcam Logitech C920,Accesorios,310000,2,2026-01-10,Colombia
+7,Disco SSD Kingston 1TB,Almacenamiento,290000,6,2026-01-11,Colombia
+8,Notebook Asus VivoBook,Computadoras,1250000,1,2026-01-12,Argentina
+9,Parlante JBL Go 3,Audio,95000,3,2026-01-13,Colombia
+10,Cable USB-C,Accesorios,12000,10,2026-01-14,Colombia
+11,Tablet Samsung A9,Tablets,780000,2,2026-01-15,Colombia
+12,Impresora HP DeskJet,Impresoras,430000,2,2026-01-16,Colombia
+13,Router TP-Link Archer,Redes,175000,4,2026-01-17,Chile
+14,Silla Gamer Xtreme,Mobiliario,540000,3,2026-01-18,Colombia
+15,Micrófono HyperX SoloCast,Audio,3000,2,2026-01-19,Colombia
+16,Memoria USB Kingston 64GB,Almacenamiento,35000,7,2026-01-20,Colombia
+17,Mousepad XL,Accesorios,28000,4,2026-01-21,Colombia
+18,Smartphone Motorola G54,Telefonía,920000,2,2026-01-22,Colombia
+19,Soporte para notebook,,45000,3,2026-01-23,Colombia
+20,Tarjeta gráfica RTX 4060,Componentes,1850000,1,2026-01-24,Colombia
+21,Ventilador RGB,Componentes,65000,6,2026-01-25,Colombia
+22,Cámara web genérica,,38000,2,2026-01-26,Argentina
+23,Monitor LG UltraWide,Monitores,1150000,2,2026-01-27,Colombia
+24,Auriculares JBL Tune 510,Audio,145000,5,2026-01-28,Colombia
+25,Cargador inalámbrico,Accesorios,85000,3,2026-01-29,Perú
+26,Disco externo Seagate 2TB,Almacenamiento,410000,3,2026-01-30,Colombia
+27,Notebook HP 15,Computadoras,980000,2,2026-02-01,Colombia
+28,Cable HDMI 2m,Accesorios,16000,6,2026-02-02,Colombia
+29,Smartwatch Xiaomi Redmi Watch,Wearables,310000,2,2026-02-03,Colombia
+30,Funda para tablet,,22000,5,2026-02-04,Colombia
